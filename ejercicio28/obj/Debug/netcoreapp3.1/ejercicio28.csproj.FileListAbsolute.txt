@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.exe
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.deps.json
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.runtimeconfig.json
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.dll
+C:\Users\Administrator\source\repos\ejercicio28\bin\Debug\netcoreapp3.1\ejercicio28.pdb
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.dll
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.pdb
+C:\Users\Administrator\source\repos\ejercicio28\obj\Debug\netcoreapp3.1\ejercicio28.genruntimeconfig.cache
