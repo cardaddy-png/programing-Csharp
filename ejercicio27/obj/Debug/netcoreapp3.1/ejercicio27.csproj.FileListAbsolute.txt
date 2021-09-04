@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.exe
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.deps.json
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.runtimeconfig.json
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.dll
+C:\Users\Administrator\source\repos\ejercicio27\bin\Debug\netcoreapp3.1\ejercicio27.pdb
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.dll
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.pdb
+C:\Users\Administrator\source\repos\ejercicio27\obj\Debug\netcoreapp3.1\ejercicio27.genruntimeconfig.cache
