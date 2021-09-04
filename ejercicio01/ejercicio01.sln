@@ -3,29 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio01", "ejercicio01.csproj", "{8CEEEE23-DFA1-4FFB-A814-1514FAD1287E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio01", "ejercicio01.csproj", "{8CEEEE23-DFA1-4FFB-A814-1514FAD1287E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio02", "..\ejercicio02\ejercicio02.csproj", "{9B2042D6-CDEA-4341-B138-47B898B8E749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio02", "..\ejercicio02\ejercicio02.csproj", "{9B2042D6-CDEA-4341-B138-47B898B8E749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio03", "..\ejercicio03\ejercicio03.csproj", "{A018FFEE-50AB-4B31-8FE7-D42CB9BF1816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio03", "..\ejercicio03\ejercicio03.csproj", "{A018FFEE-50AB-4B31-8FE7-D42CB9BF1816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio04", "..\ejercicio04\ejercicio04.csproj", "{2297F266-0B3A-4AA5-A3F2-BAFFC4B0162E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio04", "..\ejercicio04\ejercicio04.csproj", "{2297F266-0B3A-4AA5-A3F2-BAFFC4B0162E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio05", "..\ejercicio05\ejercicio05.csproj", "{3BB73F85-E74B-4E13-BC58-10D6799D00B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio05", "..\ejercicio05\ejercicio05.csproj", "{3BB73F85-E74B-4E13-BC58-10D6799D00B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio06", "..\ejercicio06\ejercicio06.csproj", "{9DB03CA6-6288-42C5-89C8-7725FCB896CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio06", "..\ejercicio06\ejercicio06.csproj", "{9DB03CA6-6288-42C5-89C8-7725FCB896CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio07", "..\ejercicio07\ejercicio07.csproj", "{FF95E07A-D388-48EE-BFF1-107B60C5BD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio07", "..\ejercicio07\ejercicio07.csproj", "{FF95E07A-D388-48EE-BFF1-107B60C5BD90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio08", "..\ejercicio08\ejercicio08.csproj", "{7F7D0020-BF09-4B3E-AB55-A8155B557CF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio08", "..\ejercicio08\ejercicio08.csproj", "{7F7D0020-BF09-4B3E-AB55-A8155B557CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio09", "..\ejercicio09\ejercicio09.csproj", "{D8B7A423-401A-4897-AA39-AFC77924FB8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio09", "..\ejercicio09\ejercicio09.csproj", "{D8B7A423-401A-4897-AA39-AFC77924FB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio10", "..\ejercicio10\ejercicio10.csproj", "{8E609767-5C5D-4576-A8A9-2E8BB86FB9DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio10", "..\ejercicio10\ejercicio10.csproj", "{8E609767-5C5D-4576-A8A9-2E8BB86FB9DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio11", "..\ejercicio11\ejercicio11.csproj", "{7CB8ADA1-AD3D-432C-87F1-444F0EE5B332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio11", "..\ejercicio11\ejercicio11.csproj", "{7CB8ADA1-AD3D-432C-87F1-444F0EE5B332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio12", "..\ejercicio12\ejercicio12.csproj", "{17E72275-7E06-4522-9326-966AC16E4F8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio12", "..\ejercicio12\ejercicio12.csproj", "{17E72275-7E06-4522-9326-966AC16E4F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio13", "..\ejercicio13\ejercicio13.csproj", "{31F22490-FFCF-409B-97CB-B317A069B03B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio14", "..\ejercicio14\ejercicio14.csproj", "{29BD80BE-458A-4BB9-BAD6-58E984EAC8E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio15", "..\ejercicio15\ejercicio15.csproj", "{0B39CA99-86E9-40CC-9C8D-AA1B7964BE9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio16", "..\ejercicio16\ejercicio16.csproj", "{DF1E9E47-2F54-42B4-95B9-862EEC661910}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio17", "..\ejercicio17\ejercicio17.csproj", "{25E5D8F8-CEB3-4A49-9031-289D58CEBF40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio18", "..\ejercicio18\ejercicio18.csproj", "{F14F9100-D630-4235-AB50-0FC7E2D4DBAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio19", "..\ejercicio19\ejercicio19.csproj", "{F45E79B0-BD92-4877-A252-83995DBC3D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio20", "..\ejercicio20\ejercicio20.csproj", "{A146DC34-CC13-4D23-B559-C29A9D5CD8D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +97,38 @@ Global
 		{17E72275-7E06-4522-9326-966AC16E4F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E72275-7E06-4522-9326-966AC16E4F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E72275-7E06-4522-9326-966AC16E4F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F22490-FFCF-409B-97CB-B317A069B03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F22490-FFCF-409B-97CB-B317A069B03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F22490-FFCF-409B-97CB-B317A069B03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F22490-FFCF-409B-97CB-B317A069B03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BD80BE-458A-4BB9-BAD6-58E984EAC8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BD80BE-458A-4BB9-BAD6-58E984EAC8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BD80BE-458A-4BB9-BAD6-58E984EAC8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BD80BE-458A-4BB9-BAD6-58E984EAC8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B39CA99-86E9-40CC-9C8D-AA1B7964BE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B39CA99-86E9-40CC-9C8D-AA1B7964BE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B39CA99-86E9-40CC-9C8D-AA1B7964BE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B39CA99-86E9-40CC-9C8D-AA1B7964BE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1E9E47-2F54-42B4-95B9-862EEC661910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1E9E47-2F54-42B4-95B9-862EEC661910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1E9E47-2F54-42B4-95B9-862EEC661910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1E9E47-2F54-42B4-95B9-862EEC661910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E5D8F8-CEB3-4A49-9031-289D58CEBF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E5D8F8-CEB3-4A49-9031-289D58CEBF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E5D8F8-CEB3-4A49-9031-289D58CEBF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E5D8F8-CEB3-4A49-9031-289D58CEBF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14F9100-D630-4235-AB50-0FC7E2D4DBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14F9100-D630-4235-AB50-0FC7E2D4DBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14F9100-D630-4235-AB50-0FC7E2D4DBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14F9100-D630-4235-AB50-0FC7E2D4DBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45E79B0-BD92-4877-A252-83995DBC3D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45E79B0-BD92-4877-A252-83995DBC3D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45E79B0-BD92-4877-A252-83995DBC3D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45E79B0-BD92-4877-A252-83995DBC3D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A146DC34-CC13-4D23-B559-C29A9D5CD8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A146DC34-CC13-4D23-B559-C29A9D5CD8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A146DC34-CC13-4D23-B559-C29A9D5CD8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A146DC34-CC13-4D23-B559-C29A9D5CD8D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
